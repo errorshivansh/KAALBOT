@@ -21,7 +21,7 @@ logo = """
 ╚╝╚═╝╚╝─╚╝╚╝─╚╝╚═══╝╚═══╝╚═══╝──╚╝──
 """
 baap_bolte = """
-#Legendary W2HBot          
+#Legendary kaalBot          
 Made With Love By Team kaalBot
 """
                                                                                                             
@@ -32,7 +32,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + baap_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To W2HBot String Generator By @kaalOwner""")
+print("""Welcome To kaalBot String Generator By @kaalOwner""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
@@ -46,7 +46,7 @@ while True:
             session = client.session.save()
             client.send_message(
                 "me",
-                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @W2H_Userbot For Any Help !",
+                f"Here is your TELEGRAM STRING SESSION\n(Tap to copy it)👇 \n\n `{session}` \n\n And Visit @kaalsupport01 For Any Help !",
             )
 
             print(
