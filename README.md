@@ -1,11 +1,11 @@
-<h1 align="center">⚡ 𝕎𝟚ℍ𝔹𝕠𝕥 ⚡</h1>
+<h1 align="center">⚡ kaal𝔹𝕠𝕥 ⚡</h1>
 
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
 
-This is the one and only official W2HBot Userbot made by @David99q. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
+This is the one and only official kaalBot Userbot made by @Murat_30_God. Don't forget to star this repo if you liked it. Enjoy Your Bot!!💝</h2>
 
-[![W2HBot logo](https://telegra.ph/file/7a288583a47e08a6098b3.jpg)](https://t.me/W2H_Userbot)
+[![kaalBot logo](https://telegra.ph/file/e1f9260a90b177a8e7c22.jpg)](https://t.me/kaalsupport01)
 
 <h2 align="center">The owner would not be responsible for any kind of bans due to the bot.</h2>
 
@@ -30,9 +30,9 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST kaal𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2HUserbot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/kaal0408/KAALUserbot">⚡ k A A L 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -53,7 +53,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 ```
 Get help regarding setting up 
 
-your W2HBot in our official 
+your kaalBot in our official 
 
 support Group and get updates
 
@@ -74,9 +74,9 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 W2HGalaxy-OP
+Copyright (C) 2021 kaal-OP
 
-Poject [W2HBot](https://github.com/W2HGalaxy-OP/W2HBot) is free software: you can redistribute it and/or modify
+Poject [kaalBot](https://github.com/kaal0408/KAALBot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
