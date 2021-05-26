@@ -13,16 +13,16 @@ aura = """
 ╚═══╩═══╩═══╩═══╩╝─╚═╩═══╩╝─╚╩╝╚═╝─╚╝   
 """
 logo = """
-╭╮╭╮╭┳━━━┳╮╱╭┳━━╮╭━━━┳━━━━╮
-┃┃┃┃┃┃╭━╮┃┃╱┃┃╭╮┃┃╭━╮┃╭╮╭╮┃
-┃┃┃┃┃┣╯╭╯┃╰━╯┃╰╯╰┫┃╱┃┣╯┃┃╰╯
-┃╰╯╰╯┣━╯╭┫╭━╮┃╭━╮┃┃╱┃┃╱┃┃
-╰╮╭╮╭┫┃╰━┫┃╱┃┃╰━╯┃╰━╯┃╱┃┃
-╱╰╯╰╯╰━━━┻╯╱╰┻━━━┻━━━╯╱╰╯
+╔╗╔═╗╔═══╗╔═══╗╔╗───╔══╗─╔═══╗╔════╗
+║║║╔╝║╔═╗║║╔═╗║║║───║╔╗║─║╔═╗║║╔╗╔╗║
+║╚╝╝─║║─║║║║─║║║║───║╚╝╚╗║║─║║╚╝║║╚╝
+║╔╗║─║╚═╝║║╚═╝║║║─╔╗║╔═╗║║║─║║──║║──
+║║║╚╗║╔═╗║║╔═╗║║╚═╝║║╚═╝║║╚═╝║──║║──
+╚╝╚═╝╚╝─╚╝╚╝─╚╝╚═══╝╚═══╝╚═══╝──╚╝──
 """
 baap_bolte = """
 #Legendary W2HBot          
-Made With Love By Team W2HBot
+Made With Love By Team kaalBot
 """
                                                                                                             
 print("")
@@ -32,7 +32,7 @@ print(Style.BRIGHT + Fore.BLUE + logo)
 print(Style.RESET_ALL)
 print(Style.BRIGHT + Fore.CYAN + Back.BLUE + baap_bolte)
 print(Style.RESET_ALL)
-print("""Welcome To W2HBot String Generator By @W2HOwner""")
+print("""Welcome To W2HBot String Generator By @kaalOwner""")
 print("""Kindly Enter Your Details To Continue ! """)
 
 API_KEY = input("API_KEY: ")
