@@ -24,7 +24,7 @@ echo """
 ┗┛ ┗┻━━┻┛┗┛┗┻┛┗┻━━┻━━┻━┛
 
 Legendary W2HBot
-@W2HSupport
+@kaalsupport01
 """
 
 python3 string_session.py
