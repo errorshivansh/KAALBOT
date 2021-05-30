@@ -22,7 +22,7 @@ This is the one and only official kaalBot Userbot made by @Murat_30_God. Don't f
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Paramatin/KaalUserbot-SessionGenrator#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -101,7 +101,9 @@ along with this program. If not, see <https://www.gnu.org/licenses/>.
 <details>
 
   <summary> • Credits 🏅 • </summary>
-  
+
+ • [Kaal-OP](https://github.com/kaal0408):DEV
+
 • [Galaxy-OP](https://github.com/W2HGalaxy-OP):DEV
 
 • [Itzgauravv](https://github.com/itzgauravv):DEV
