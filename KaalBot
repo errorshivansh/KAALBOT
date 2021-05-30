@@ -36,10 +36,10 @@ _set_bot () {
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $W2HPATH
+    cd $kaalPATH
     echo "    Starting kaalBot    "
     echo "
-    W2HBOT
+    kaalBOT
     "
 
     python3 ../setup/updater.py ../requirements.txt requirements.txt
