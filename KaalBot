@@ -30,7 +30,7 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    W2HPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    kaalPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
