@@ -4,7 +4,7 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $kaal_REPO == "kaalbot" ]]
+    if [[ $kaal_REPO == "kaalBot" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL1cySEdhbGF4eS1PUC9XMkhVc2VyYm90L2FyY2hpdmUvbWFzdGVyLnppcA==" | base64 -d
     elif [[ $kaal_REPO == "kaalBot" ]]
