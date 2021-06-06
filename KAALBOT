@@ -4,13 +4,13 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $KAAL_REPO == "KAALBOT" ]]
+    if [[ $KAALBOT_REPO == "KAALBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2thYWwwNDA4L0tBQUxCT1Q=" | base64 -d
-    elif [[ $MAFIA_REPO == "KAALBOT" ]]
+    elif [[ $KAALBOT_REPO == "KAALBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2thYWwwNDA4L0tBQUxCT1Q=" | base64 -d
-    elif [[ $MAFIA_REPO =~ $regex ]]
+    elif [[ $KAALBOT_REPO =~ $regex ]]
     then
         if [[ $MAFIA_REPO_BRANCH ]]
         then
