@@ -4,7 +4,7 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $MAFIA_REPO == "KAALBOT" ]]
+    if [[ $KAAL_REPO == "KAALBOT" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL2thYWwwNDA4L0tBQUxCT1Q=" | base64 -d
     elif [[ $MAFIA_REPO == "KAALBOT" ]]
@@ -14,9 +14,9 @@ _get_repolink () {
     then
         if [[ $MAFIA_REPO_BRANCH ]]
         then
-            echo "${MAFIA_REPO}/archive/${MAFIA_REPO_BRANCH}.zip"
+            echo "${KAAL_REPO}/archive/${KAAL_REPO_BRANCH}.zip"
         else
-            echo "${MAFIA_REPO}/archive/master.zip"
+            echo "${KAAL_REPO}/archive/master.zip"
         fi
     else
         echo "aHR0cHM6Ly9naXRodWIuY29tL2thYWwwNDA4L0tBQUxCT1Q=" | base64 -d
@@ -30,13 +30,13 @@ _set_bot () {
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
-    MAFIAPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
+    KAALPATH=$(zipinfo -1 "$zippath" | grep -v "/.");
     unzip -qq "$zippath"
     echo "Done"
     echo "  Cleaning ..."
     rm -rf "$zippath"
     sleep 5
-    cd $MAFIAPATH
+    cd $KAALPATH
     echo "    Starting KAALBOT    "
     echo "
                           ╔═╦═╦══╦══╦══╦══╦══╦═╦══╗
