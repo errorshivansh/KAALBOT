@@ -1,4 +1,4 @@
-<h1 align="center">⚡ kaal𝔹𝕠𝕥 ⚡</h1>
+<h1 align="center">⚡ KAALBOT ⚡</h1>
 
 
 <h2>This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners.
@@ -16,7 +16,7 @@ This is the one and only official kaalBot Userbot made by @Murat_30_God. Don't f
 
 <h3> DEPLOY TO HEROKU </h3>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkaal0408%2FkAalBot&template=https%3A%2F%2Fgithub.com%2Fkaal0408%2FkaaLBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fkaal0408%2FKAALBot&template=https%3A%2F%2Fgithub.com%2Fkaal0408%2FKAALBot" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
 </a>
 
 <h3> StringSession </h3>
@@ -30,7 +30,7 @@ This is the one and only official kaalBot Userbot made by @Murat_30_God. Don't f
     - String will be saved in your Saved Message.
 
 
-<h1 align="center">TO HOST kaal𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
+<h1 align="center">TO HOST KAALBOT LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
 <h2 align="center"> <a href="https://github.com/kaal0408/KAALUserbot">⚡ k A A L 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
@@ -53,16 +53,16 @@ This is the one and only official kaalBot Userbot made by @Murat_30_God. Don't f
 ```
 Get help regarding setting up 
 
-your kaalBot in our official 
+your KAALBOT in our official 
 
 support Group and get updates
 
 notifications in Update Channel.
 ```
 
-<a href="https://t.me/kaalsupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/KAALSupport"><img src="https://img.shields.io/badge/Join-Support%20Channel-red.svg?style=for-the-badge&logo=Telegram"></a>
 
-<a href="https://t.me/kaalsupport01"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/KAAL_Userbot"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 [![Contact Me](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/David99q)
@@ -76,7 +76,7 @@ notifications in Update Channel.
 
 Copyright (C) 2021 kaal-OP
 
-Poject [kaalBot](https://github.com/kaal0408/KAALBot) is free software: you can redistribute it and/or modify
+Poject [KAALBot](https://github.com/kaal0408/KAALBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
