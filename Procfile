@@ -1,1 +1,1 @@
-worker: bash W2HBot
+worker: bash Kalabot
