@@ -1,4 +1,4 @@
-FROM sandy1709/catuserbot:alpine
+FROM errorshivansh/KAALBOT:latest
 
 #clonning repo 
 RUN git clone https://github.com/kaal0408/KAALUserbot.git /root/userbot
